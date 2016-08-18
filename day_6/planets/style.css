@@ -1,0 +1,18 @@
+h1 {
+  color: blue;
+}
+
+ol {
+  font-size: 200%;
+  background-color: rgba(52, 152, 219,0.75);
+}
+
+.outer-planets{
+  color: #D2527F
+  background-color: rgb(0,0,0);
+}
+
+#mars {
+  color: #1abc9c
+}
+
